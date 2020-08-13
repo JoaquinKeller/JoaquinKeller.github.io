@@ -1,0 +1,10 @@
+dist*
+package-lock.json
+.cache
+__pycache__
+.DS_Store
+.idea
+.ipynb_checkpoints
+node_modules
+.vscode
+.eslintrc.js
